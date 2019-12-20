@@ -1,0 +1,262 @@
+Dec 20, 2019 5:17:16 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:17:18 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:17:22 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:17:27 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:17:29 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:17:30 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:17:30 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:17:30 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 1
+Dec 20, 2019 5:17:32 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:17:33 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:17:34 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:17:39 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:17:41 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:17:41 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 2
+Dec 20, 2019 5:17:44 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:17:44 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:17:44 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 3
+Dec 20, 2019 5:17:48 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:17:49 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:17:52 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:20:22 PM eg.edu.alexu.csd.oop.game67.logger update
+WARNING: The bomb is almost here!!
+Dec 20, 2019 5:20:23 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: Game Over!
+Dec 20, 2019 5:29:04 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:29:04 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:29:06 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:29:08 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:29:13 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:29:14 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:29:15 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:29:17 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:29:18 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:29:19 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:29:23 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:29:23 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 1
+Dec 20, 2019 5:29:35 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:29:35 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:29:37 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:29:45 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:29:47 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:29:50 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:29:50 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:29:50 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 2
+Dec 20, 2019 5:29:51 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:29:51 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 3
+Dec 20, 2019 5:29:58 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:30:00 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:30:00 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 4
+Dec 20, 2019 5:30:08 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:30:08 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 5
+Dec 20, 2019 5:30:13 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:30:17 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:30:17 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 6
+Dec 20, 2019 5:30:20 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:30:20 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:30:23 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:30:25 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:30:25 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 7
+Dec 20, 2019 5:30:34 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:30:34 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 8
+Dec 20, 2019 5:30:39 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:30:39 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 9
+Dec 20, 2019 5:30:41 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:30:43 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:30:48 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:30:51 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:30:56 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:31:00 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:31:00 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 10
+Dec 20, 2019 5:31:10 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:31:10 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 11
+Dec 20, 2019 5:31:12 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 5:31:12 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 12
+Dec 20, 2019 7:40:22 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 7:40:22 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 7:40:23 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 7:40:26 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 7:40:27 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 7:40:27 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 1
+Dec 20, 2019 7:40:29 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 7:40:31 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 7:40:31 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 2
+Dec 20, 2019 8:04:15 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 8:04:15 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 8:04:17 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 8:04:26 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 8:04:28 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 8:04:31 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 8:04:33 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 8:05:26 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 8:05:29 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 8:05:29 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 8:05:29 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 1
+Dec 20, 2019 8:05:29 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 8:05:30 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 8:05:33 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 8:05:40 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 8:05:44 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 8:05:44 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 2
+Dec 20, 2019 8:16:18 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 8:16:21 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 8:16:22 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 8:16:24 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 8:16:25 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 8:16:31 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 8:16:33 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 8:16:35 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 8:16:36 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 8:16:36 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 1
+Dec 20, 2019 8:16:39 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 8:16:41 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 8:16:41 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 8:16:41 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 2
+Dec 20, 2019 8:16:42 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 8:16:43 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 8:16:43 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 3
+Dec 20, 2019 8:16:47 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 8:16:47 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 8:16:47 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 4
+Dec 20, 2019 8:16:50 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 8:18:33 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 8:18:33 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 8:18:34 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 8:18:34 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 8:18:36 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 8:18:36 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 1
+Dec 20, 2019 8:18:44 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 8:18:44 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 8:18:44 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 2
+Dec 20, 2019 8:18:52 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 8:19:00 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+Dec 20, 2019 8:19:00 PM eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 3
